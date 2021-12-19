@@ -1,5 +1,5 @@
 /*
-    ettercap -- send the the wire functions
+    ettercap -- send to the wire functions
 
     Copyright (C) ALoR & NaGA
 
